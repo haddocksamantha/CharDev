@@ -1,0 +1,91 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.202510665)
+
+newmtl Birb_Rig_Birb_Model_lambert2SG
+kd 0.44 0.36 0.34
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert3SG
+kd 0.63 0.27 0.14
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert4SG
+kd 0.73 0.64 0.33
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert5SG
+kd 0.58 0.47 0.16
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert6SG
+kd 0.34 0.28 0.1
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert7SG
+kd 0.19 0.19 0.19
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert8SG
+kd 0.38 0.38 0.38
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert9SG
+kd 0.48 0.29 0.15
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert10SG
+kd 0.24 0.23 0.22
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert11SG
+kd 0.86 0.86 0.86
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Birb_Rig_Birb_Model_lambert12SG
+kd 0.04 0.04 0.04
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
